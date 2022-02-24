@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\javascript dars mavzulari"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html and css file"
+	}
+}
